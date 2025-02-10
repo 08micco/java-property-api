@@ -1,0 +1,6 @@
+com\mikkel\property\App.class
+com\mikkel\property\RestApplication.class
+com\mikkel\property\JPAUtil.class
+com\mikkel\property\Property.class
+com\mikkel\property\PropertyRepository.class
+com\mikkel\property\PropertyResource.class
